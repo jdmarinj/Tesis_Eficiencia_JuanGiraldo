@@ -1,0 +1,5 @@
+git pull 				% carga la versión
+git add . 				% actualiza todos los archivos
+git commit -m <"Name">		% crea la versión
+git push				% sube los cambios
+git checkout <BranchName>	% Cambia de branch
